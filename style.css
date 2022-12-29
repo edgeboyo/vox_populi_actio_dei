@@ -1,0 +1,14 @@
+.App {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  button {
+    width: 100px;
+    height: 100px;
+  }
+  
+  button:nth-child(5) {
+    width: 200px;
+    height: 200px;
+  }
